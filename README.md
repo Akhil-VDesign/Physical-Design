@@ -12,4 +12,14 @@ On the first day of the workshop
 
 ## PicoRV32 Layout and Floorplan
 ### Opening PicoRV32 Layout with Magic
-![Opening Magic with layout](https://user-images.githubusercontent.com/100471745/155844523-18c27437-7060-4fa2-b291-55fdc25f24e2.png)
+![Opening Magic with layout](https://user-images.githubusercontent.com/100471745/155844643-763a01aa-89f0-4ebe-be76-f183ff34a3e3.png)
+
+Zoomed Layout
+![zoomed magic](https://user-images.githubusercontent.com/100471745/155844721-ea3fea82-2655-4c7d-950e-70b05904aeb9.png)
+Layout After standered Cell Placement
+![Standered cells are placed in placement run, also power rails can be seen placed](https://user-images.githubusercontent.com/100471745/155844800-cee75976-c703-40ff-b8db-f61683a91264.png)
+
+### Inverter Layout
+![Inverter Layout cloned from github](https://user-images.githubusercontent.com/100471745/155844879-f1c081ae-ccf5-4d78-bf18-927e3fdbc174.png)
+Note: For an error as shown below, change the NMOS and PMOS instance name from X0 and X1 to M0 and M1
+![error](https://user-images.githubusercontent.com/100471745/155844933-7224e01a-624d-43b9-86da-39354faca56b.png)
