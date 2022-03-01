@@ -34,6 +34,7 @@ On the first day of the workshop we got familier with ASIC design flow, OpenLANE
 ### Working on OpenLANE
 ![first time entering openlane](https://user-images.githubusercontent.com/100471745/155844418-5191b653-38de-4655-a424-a22d548fa3a2.png)
 
+
 # Day 2 - Good floorplan vs bad floorplan and introduction to library cells
 
 ## PicoRV32 Layout and Floorplan
@@ -66,3 +67,7 @@ Note: For an error as shown below, change the NMOS and PMOS instance name from X
 ### synthesis succesful with standered cell inv
 ![synthesis succesful with standered cell inv](https://user-images.githubusercontent.com/100471745/155881372-1a41148f-5055-41db-8137-bbd59f91480c.png)
 
+## Acknowledgement
+Kunal Ghosh , Co-founder (VSD Corp. Pvt. Ltd).
+
+Nickson Jose , VSD VLSI Engineer
